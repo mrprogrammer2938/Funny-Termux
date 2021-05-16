@@ -16,6 +16,7 @@ bash install.sh
 
 ./funny
 ```
+#### Download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)
 
 ## [Ms.nope](https://github.com/msprogrammer2938) Account...
 [Instagram](https://instagram.com/programmer2938)

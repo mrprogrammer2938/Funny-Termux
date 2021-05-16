@@ -16,6 +16,14 @@ bash install.sh
 
 ./funny
 ```
+
+##### Update...
+```
+cd Update
+
+./update
+```
+
 #### Download [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)
 
 ## [Ms.nope](https://github.com/msprogrammer2938) Account...

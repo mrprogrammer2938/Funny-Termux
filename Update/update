@@ -1,0 +1,21 @@
+#!/usr/bin/bash
+# This code write by Ms.nope
+printf "\033]2;Update\a"
+clear
+echo "updating..."
+sleep 2
+echo "
+ ___   _  _   _  _   _  _   _  _          _____  ___   ____   _   _  _  _   _   _ 
+) __( ) () ( ) \/ ( ) \/ ( ) () (  ____  )__ __() __( /  _ \ ) \_/ () () ( ) ( ) (
+| _)  | \/ | |  \ | |  \ | '.  /  )____(   | |  | _)  )  ' / |  _  || \/ |  ) | ( 
+)_(   )____( )_()_( )_()_(  /_(            )_(  )___( |_()_\ )_( )_()____( )_( )_(
+                                                                                  "
+echo ""
+sleep 2
+cd .. && sudo rm -r funny-Termux && git clone https://github.com/msprogrammer2938/funny-Termux
+echo ""
+echo "finish!"
+echo ""
+echo "Usage:
+     ./funny"
+exit 1

@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 # This code write by Ms.nope
 clear
+printf '\033]2;Installing\a'
 echo "installing..."
 sleep 2
 echo "

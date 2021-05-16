@@ -13,6 +13,7 @@ echo ""
 sudo apt install python3
 sudo apt install python
 chmod +x funnny
+cd Update && chmod +x update
 echo ""
 echo "finish installing!"
 echo ""

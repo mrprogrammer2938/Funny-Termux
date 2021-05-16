@@ -15,7 +15,7 @@ opt = color.org + """
 def cls():
     os.system("clear")
 def menu():
-    os.system('printf "\033]2;xFunny-Termux\a"')
+    os.system('printf "\033]2;Funny-Termux\a"')
     os.system("clear")
     print(color.green + """
  _____  __ __  ____   ____   __ __         ______    ___  ____   ___ ___  __ __  __ __ 

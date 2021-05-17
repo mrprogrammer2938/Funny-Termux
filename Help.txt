@@ -1,0 +1,14 @@
+Installing: 
+             git clone https://github.com/msprogrammer2938/funny-Termux
+             
+             cd funny-Termux
+             
+             bash install.sh
+             
+             ./funny
+             
+-----------------------------
+Update:
+         cd Update
+         
+         ./update

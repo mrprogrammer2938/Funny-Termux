@@ -1,4 +1,4 @@
-# funnny-Termux
+# funny-Termux
 
 This code write by [Ms.nope](https://github.com/msprogrammer2938)
 Funny Termux (^_^)

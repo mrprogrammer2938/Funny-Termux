@@ -26,7 +26,7 @@ def menu():
 |  |   |     ||  |  ||  |  ||     |         |  |  |     ||  .  \|   |   ||     ||  |  |
 |__|    \__,_||__|__||__|__||____/          |__|  |_____||__|\_||___|___| \__,_||__|__|
                                                                                        """ + color.red + """
-      (This code write by """ + color.blue + "Ms.nope" + color.End + " )")
+      (This code write by """ + color.blue + "Ms.nope" + color.red + " )" + color.End)
     print("\n1_figlet")
     print("2_toilet")
     print("3_cowsay")

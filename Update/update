@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# This code write by Ms.nope
+# This code write by Mr.nope
 printf "\033]2;Update\a"
 clear
 echo "updating..."
@@ -12,10 +12,11 @@ echo "
                                                                                   "
 echo ""
 sleep 2
-cd .. && sudo rm -r funny-Termux && git clone https://github.com/msprogrammer2938/funny-Termux
+cd .. && sudo rm -r funny-Termux && git clone https://github.com/mrprogrammer2938/funny-Termux
 echo ""
 echo "finish!"
 echo ""
 echo "Usage:
      ./funny"
+echo ""
 exit 1

@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# This code write by Ms.nope
+# This code write by Mr.nope
 clear
 printf '\033]2;Installing\a'
 echo "installing..."
@@ -19,4 +19,5 @@ echo "finish installing!"
 echo ""
 echo "usage:
       ./funny"
+echo ""
 exit 1

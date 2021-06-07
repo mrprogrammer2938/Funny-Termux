@@ -18,8 +18,21 @@ bash install.sh
 ./funny
 ```
 
+#### Run...
+```
+./funny --help
+```
+
+#### Argument:
+```
+arguments Command:
+
+--help: help arguments!
+--start: start funny-Termux menu!
+--install + packet: Installing package!
 ##### Update...
 ```
+
 cd Update
 
 ./update

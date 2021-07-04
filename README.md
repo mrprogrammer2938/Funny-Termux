@@ -5,7 +5,7 @@ This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 Funny Termux (^_^)
 
 ### Scr
-[![funny-Termux-scr](https://user-images.githubusercontent.com/78996423/118414227-9a116100-b6b8-11eb-8074-5289641d3c38.jpeg)](https://github.com/mrprogrammer2938/funny-Termux)
+[![Funny-Termux](https://user-images.githubusercontent.com/78996423/124370758-0b6c9980-dc90-11eb-80fe-d0c28891617b.jpeg)](https://github.com/mrprogrammer2938/funny-Termux)
 
 **installing**
 ```

@@ -7,8 +7,8 @@ Funny Termux (^_^)
 ### Scr
 [![Funny-Termux](https://user-images.githubusercontent.com/78996423/124370758-0b6c9980-dc90-11eb-80fe-d0c28891617b.jpeg)](https://github.com/mrprogrammer2938/funny-Termux)
 
-**installing**
-```
+**Installing**
+``` sh
 git clone https://github.com/mrprogrammer2938/funny-Termux
 
 cd funny-Termux
@@ -19,7 +19,7 @@ bash install.sh
 ```
 
 #### Run...
-```
+``` sh
 ./funny --help
 ```
 
